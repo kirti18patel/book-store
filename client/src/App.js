@@ -26,18 +26,6 @@ const client = new ApolloClient({
 });
 
 function App() {
-//   const client = new ApolloClient({
-//     request: operation => {
-//       const token = localStorage.getItem('id_token');
-//       operation.setContext({
-//         headers:{
-//           authorization: token ? `Bearer ${token}` : ""
-//         }
-//       });
-//     },
-//     uri: '/graphql'
-//   });
-
   return (
     <ApolloProvider client={client}>
     <Router>
