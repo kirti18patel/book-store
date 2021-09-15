@@ -11,9 +11,12 @@ const SavedBooks = () => {
   
   const { loading, data } = useQuery(QUERY_ME);
   const [ removeBook ] = useMutation(REMOVE_BOOK);
-
+ 
+  // if data isn't here yet, say so
+  if (loading) {
+    return <h2>LOADING...</h2>;
+  }
   const userData = data?.me || {};
-
   if (!userData?.username) {
     return (
       <h4>
@@ -42,11 +45,6 @@ const SavedBooks = () => {
       console.error(err);
     }
   };
-
-  // if data isn't here yet, say so
-  if (loading) {
-    return <h2>LOADING...</h2>;
-  }
 
   return (
     <>
