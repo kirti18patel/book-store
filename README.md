@@ -1,6 +1,6 @@
 # Book Search Engine
 
-## Book Search Engine repository link : ![Github](https://github.com/kirti18patel/book-store)
+## Book Search Engine repository link : [Github](https://github.com/kirti18patel/book-store)
 
 ## Description: 
 Book Search Engine web application allows avid raeders to search books available in order to keep track of their favorite books and make a list of books needs to be purchased. Reader can also delete the book from saved book once purchased or read.
