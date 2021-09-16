@@ -9,6 +9,7 @@ Book Search Engine web application allows avid raeders to search books available
 * [Installation](#installation)
 * [License](#license)
 * [Links](#links)
+* [Preview](#preview)
 * [Usage](#usage)
 * [Tools](#tools)
 * [Credits](#credits)
@@ -23,7 +24,14 @@ To connect to the application on local host address, the user must clone the rep
 ![badge](https://img.shields.io/badge/licence-MIT-green)
 
 ## Links
-•	[Heroku Deployment]( )
+•	[Heroku Deployment](https://kirti-book-search-engine.herokuapp.com/)
+
+## Preview
+![alt screenshot1](/assets/img1.png)
+![alt screenshot1](/assets/img2.png)
+![alt screenshot1](/assets/img3.png)
+![alt screenshot1](/assets/img4.png)
+
 
 ## Usage
 The application allows the user(reader) to signup then login, search books, and save them to keep list of books need to buy or read. Reader can also delete saved book later on. It is a very handy application to manage list of favorite books.
