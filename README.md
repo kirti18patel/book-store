@@ -27,10 +27,10 @@ To connect to the application on local host address, the user must clone the rep
 •	[Heroku Deployment](https://kirti-book-search-engine.herokuapp.com/)
 
 ## Preview
-![alt screenshot1](/assets/img1.png)
-![alt screenshot1](/assets/img2.png)
-![alt screenshot1](/assets/img3.png)
-![alt screenshot1](/assets/img4.png)
+![alt screenshot1](/client/public/assets/img1.png)
+![alt screenshot1](/client/public/assets/img2.png)
+![alt screenshot1](/client/public/assets/img3.png)
+![alt screenshot1](/client/public/assets/img4.png)
 
 
 ## Usage
